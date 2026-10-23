@@ -4,6 +4,10 @@ An interactive Streamlit dashboard for exploring CSV datasets, analyzing data, v
 
 Built with Python, Pandas, Streamlit, and Plotly.
 
+## Live Demo
+
+Try the app: https://snehajoyti-csv-insight-studio-app-g729fi.streamlit.app/
+
 ## Features
 
 - Upload and explore CSV files
