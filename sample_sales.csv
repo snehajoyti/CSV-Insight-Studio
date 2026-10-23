@@ -1,0 +1,13 @@
+# sample_sales.csv -- testing ke liye sample data 
+
+Date,Product,Region,Sales,Quantity
+2026-01-05,Laptop,East,55000,2
+2026-01-08,Phone,West,30000,3
+2026-01-12,Tablet,North,18000,2
+2026-02-03,Laptop,West,60000,2
+2026-02-10,Phone,East,25000,2
+2026-02-14,Tablet,South,20000,3
+2026-03-02,Laptop,North,65000,2
+2026-03-07,Phone,South,35000,4
+2026-03-15,Tablet,East,15000,2
+2026-03-20,Phone,West,28000,2

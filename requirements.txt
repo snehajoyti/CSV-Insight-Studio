@@ -1,0 +1,10 @@
+# requirements.txt -- project ki required libaries
+
+# Streamlit - Python code se interactive web app banane ke liye
+#Pandas - CSV data read, analyze aur clean karne ke liye
+#Plotly - Interactive charts bananed ke liye
+
+
+streamlit     
+pandas
+plotly 
