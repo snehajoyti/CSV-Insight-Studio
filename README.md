@@ -8,6 +8,12 @@ Built with Python, Pandas, Streamlit, and Plotly.
 
 Try the app: https://snehajoyti-csv-insight-studio-app-g729fi.streamlit.app/
 
+![Dashboard](Images/Dashboards.png)
+
+![Charts](Images/Charts.png)
+
+![Data Quality](Images/Data-quality.png)
+
 ## Features
 
 - Upload and explore CSV files
